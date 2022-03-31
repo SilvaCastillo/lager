@@ -38,8 +38,9 @@ const styles = StyleSheet.create({
 	},
     data: {
         color: '#333',
-        fontSize: 20,
-        marginBottom: 20,
+        fontSize: 16,
+        lineHeight: 24,
+        marginBottom: 24,
     }
 });
 
